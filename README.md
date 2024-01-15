@@ -2,7 +2,7 @@
 This is an overview of my light control solution. The code and sketches will be saved in dedicated repositories
 ## Repositories
 * https://github.com/infrapale/T2401_LightControl
-* https://github.com/infrapale/T2401_KeyToRfm   (this sketch)
+* https://github.com/infrapale/T2401_KeyToRfm
 * https://github.com/infrapale/T2312_Keypad_2x4
 * https://github.com/infrapale/T2311_RFM69_Modem
 
