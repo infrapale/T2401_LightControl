@@ -10,7 +10,7 @@ This is an overview of my light control solution. The code and sketches will be 
 
 ![overview pic](/images/Overview_1.png)
 
-**2x4 Keypad(s)**
+### 2x4 Keypad(s)
 * Scan keys 1/10ms
 * Send On message if pressed shortly 
 * Send Off message if pressed longer
@@ -32,3 +32,10 @@ This is an overview of my light control solution. The code and sketches will be 
 
 **Relay Unit** 
 * Receive relay messages and control relay
+## Implementation
+### 2x4 Keypad
+* Arduino Pro mini 3.3V 8MHz
+* Arduino IDE
+* PCB connecting the 8 Cherry MX type keys to the MCU
+* Buffered Serial interface
+* 
